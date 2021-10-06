@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanoZap
+- 👀 I’m interested in programming, technology, artificial intelligences and web design
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 📫 How to reach me danzapcar@gmail.com
