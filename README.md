@@ -1,5 +1,5 @@
 - Hi, I’m @DanoZap
 - I’m interested in programming, technology, artificial intelligences and web design.
-- I’m currently learning HTML, CSS and JavaScript. (i'm noob on all that :( )
+- I’m currently learning HTML, CSS and JavaScript.
 - My goal is to one day make a living from programming.
 - 📫 How to reach me danzapcar@gmail.com
